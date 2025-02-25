@@ -4,6 +4,10 @@
 				text-align: center;
 				color: Black;
 		}
+			#Texto{
+				font-size: 16px;
+				text-align: center;
+			}
 			main{
 				display: flex;
 		}
