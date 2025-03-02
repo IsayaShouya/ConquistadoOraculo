@@ -3,7 +3,7 @@
 				font-size: 55px;
 				text-align: center;
 				color: Black;
-		}
+			}
 			#Texto{
 				font-size: 26px;
 				text-align: center;
@@ -14,22 +14,20 @@
 			}
 			main{
 				display: flex;
-		}
+			}
 			#imgquiz{
 				widht: 500px;
 				height: 550px;
 				margin-left: 700px;
 				margin-top: 150px;
-		}
-			
-
+			}
 			#rodape{
 				background-color: blue;
 				color: white;
 				position: relative;
-		}
+			}
 			footer{
 				font-size: 12px;
 				text-align: center;
 				position: relative;
-		}
+			}
