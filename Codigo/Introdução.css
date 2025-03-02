@@ -17,47 +17,6 @@
 				margin-left: 700px;
 				margin-top: 150px;
 		}
-			#linkQuiz{
-				
-				background-color: red;
-				margin: 10px;
-				border-radius: 20px;
-				color: black;
-				text-align: center;
-				position: center;
-				margin-left: 510px;
-				font-size: 50px;
-
-		}
-			#linkQuiz: hover{
-				cursor: pointer;
-				background-color: orange;
-				margin: 10px;
-				border-radius: 20px;
-				color: white;
-				position: center;
-
-		}
-			#linkPodio{
-				
-				background-color: green;
-				margin: 10px;
-				border-radius: 20px;
-				color: black;
-				text-align: center;
-				margin-left: 50px;
-				font-size: 50px;
-				
-
-		}
-			#linkPodio: hover{
-				cursor: pointer;
-				background-color: orange;
-				margin: 10px;
-				border-radius: 20px;
-				color: white;
-
-		}
 			
 
 			#rodape{
